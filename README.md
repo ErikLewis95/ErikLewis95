@@ -1,4 +1,4 @@
-<h1 align="center">Namaste:pray:, Erik Lewis Simaremare</h1>
+<h1 align="center">Namaste:pray:, I'm Erik Lewis</h1>
 <h3 align="center">Full Stack Web Developer skilled in MERN stack who focuses on writing neat, clean, elegant and efficient code.</h3>
 
 ![My thought](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
