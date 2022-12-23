@@ -77,7 +77,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ErikLewis95&show_icons=true&locale=en&layout=compact" alt="ErikLewis95" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ErikLewis95&show_icons=true&locale=en" alt="nmewada01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ErikLewis95&show_icons=true&locale=en" alt="ErikLewis95" /></p>
 
 
 
