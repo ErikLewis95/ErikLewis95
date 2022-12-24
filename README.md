@@ -73,4 +73,4 @@
 
 
 
-<p><a ><img src="https://eriklewis95.github.io/Animation/" width="100%" height="300" ></a></p>
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://eriklewis95.github.io/Animation/"><img src="https://eriklewis95.github.io/Animation/" width="100%" height="400" ></a>
