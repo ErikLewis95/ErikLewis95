@@ -70,7 +70,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ErikLewis95&show_icons=true&locale=en&theme=tokyonight" alt="ErikLewis95" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ErikLewis95&&theme=tokyonight" alt="ErikLewis95" /></p>
-
-
-
- <img src="https://eriklewis95.github.io/Animation/" width="100%" height="400" />
