@@ -10,7 +10,7 @@
 
 <p align="left" dir="auto"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/db5fc32067a33491f1a175ebe51ee074bc8e5ed0ef5d3670a9eaf779fad28f85/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d7368756268616d30343432" alt="Erik-Lewis" data-canonical-src="https://github-profile-trophy.vercel.app/?username=ErikLewis95" style="max-width: 50%;"></a> </p>
 
-<img align="right" alt="Coding" width="600" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="600" height="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **Full Stack Web Development**
 
 - 🌱 I’m currently learning **React, Redux**
