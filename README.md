@@ -4,7 +4,7 @@
 
 ![My thought](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ErikLewis95&label=Profile%20views&color=0e75b6&style=flat" alt="ErikLewis95" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ErikLewis95&theme=discord" alt="ErikLewis95" /> </p>
 <p align="left" dir="auto"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/db5fc32067a33491f1a175ebe51ee074bc8e5ed0ef5d3670a9eaf779fad28f85/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d7368756268616d30343432" alt="Erik-Lewis" data-canonical-src="https://github-profile-trophy.vercel.app/?username=ErikLewis95&theme=discord" style="max-width: 50%;"></a> </p>
 
 - 🔭 I’m currently working on **Full Stack Web Development**
@@ -16,7 +16,7 @@
 - 💬 Ask me about **Html, CSS, Javascript, React**
 
 - 📫 How to reach me **eriksimaremare@gmail.com**
-<img align="right" alt="Coding" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/erik-lewis-979a9976/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erik-lewis" height="30" width="40" /></a>
