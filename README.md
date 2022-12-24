@@ -71,4 +71,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ErikLewis95&&theme=tokyonight" alt="ErikLewis95" /></p>
 
-![MasterHead](https://eriklewis95.github.io/Animation/)
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://eriklewis95.github.io/Animation/"><img src="https://eriklewis95.github.io/Animation/" width="100" height="30" ></a></p>
