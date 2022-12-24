@@ -73,4 +73,4 @@
 
 
 
- <a target="_blank" rel="noopener noreferrer nofollow" href="https://eriklewis95.github.io/Animation/"></a></p>
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://eriklewis95.github.io/Animation/" />
