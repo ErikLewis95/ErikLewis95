@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ErikLewis95&label=Profile%20views&color=0e75b6&style=flat" alt="ErikLewis95" /> </p>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ErikLewis95&theme=discord" alt="ErikLewis95" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ErikLewis95&theme=discord&no-frame=true" alt="ErikLewis95" /> </p>
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
