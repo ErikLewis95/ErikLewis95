@@ -71,7 +71,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ErikLewis95&&theme=tokyonight" alt="ErikLewis95" /></p>
 
-<a href="https://github.com/ErikLewis95"><img src="contribution.svg" width="100%" height="300"></a>
+<a href="https://github.com/ErikLewis95"><img src="contribution.svg" width="100%" ></a>
 
 
 
