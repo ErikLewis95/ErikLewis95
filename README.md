@@ -71,6 +71,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ErikLewis95&&theme=tokyonight" alt="ErikLewis95" /></p>
 
-<a href="https://github.com/tomondre"><img src="contributions.svg"></a>
+<a href="https://github.com/ErikLewis95"><img src="contributions.svg"></a>
 
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk" />
