@@ -10,8 +10,6 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ErikLewis95&theme=discord" alt="ErikLewis95" /> </p>
 
-<p align="right"> <img src="https://github.com/ErikLewis95/ErikLewis95/blob/main/covid19.gif" width="200" height="200"> 
-
 - 🔭 I’m currently working on **Full Stack Web Development**
 
 - 🌱 I’m currently learning **React, Redux**
@@ -21,7 +19,7 @@
 - 💬 Ask me about **Html, CSS, Javascript, React**
 
 - 📫 How to reach me **eriksimaremare@gmail.com**
-</p>
+<p align="right"> <img src="https://github.com/ErikLewis95/ErikLewis95/blob/main/covid19.gif" width="300" height="300"> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/erik-lewis-979a9976/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erik-lewis" height="30" width="40" /></a>
