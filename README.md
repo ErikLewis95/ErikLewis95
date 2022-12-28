@@ -73,5 +73,4 @@
 
 <a href="https://github.com/ErikLewis95"><img src="contribution.svg" width="100%" ></a>
 
-<a href="https://github.com/ErikLewis95"><img src="https://eriklewis95.github.io/Animation/" width="100%" ></a>
 
