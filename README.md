@@ -1,3 +1,4 @@
+<body style="background-color:#1c87c9;">
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Namaste:pray:, I'm Erik Lewis</h1>
 <h3 align="center">Full Stack Web Developer skilled in MERN stack who focuses on writing neat, clean, elegant and efficient code.</h3>
@@ -72,5 +73,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ErikLewis95&&theme=tokyonight" alt="ErikLewis95" /></p>
 
 <a href="https://github.com/ErikLewis95"><img src="contribution.svg" width="100%" ></a>
-
+</body>
 
