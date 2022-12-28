@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ErikLewis95&label=Profile%20views&color=0e75b6&style=flat" alt="ErikLewis95" /> </p>
 
-<p align="left" style="color:blue"><img src="https://avatars.githubusercontent.com/ml/9936?s=140&v=4" height="30" /><b><h4>Github Profile Trophy</h4></b></p>
+<p align="left" style="color:blue"><img src="https://avatars.githubusercontent.com/ml/9936?s=140&v=4" height="30" /><b>Github Profile Trophy</b></p>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ErikLewis95&theme=discord" alt="ErikLewis95" /> </p>
 
@@ -73,5 +73,5 @@
 
 <a href="https://github.com/ErikLewis95"><img src="contribution.svg" width="100%" ></a>
 
-
+<a href="https://github.com/ErikLewis95"><img src="https://eriklewis95.github.io/Animation/" width="100%" ></a>
 
