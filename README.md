@@ -19,8 +19,10 @@
 - 💬 Ask me about **Html, CSS, Javascript, React**
 
 - 📫 How to reach me **eriksimaremare@gmail.com**
-- 
-<p align="right"> <img src="https://github.com/ErikLewis95/ErikLewis95/blob/main/covid19.gif" width="300" height="300"> </p>
+
+
+<img align="right" alt="Coding" src="https://github.com/ErikLewis95/ErikLewis95/blob/main/covid19.gif" data-canonical-src="https://github.com/ErikLewis95/ErikLewis95/blob/main/covid19.gif" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage"> 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
