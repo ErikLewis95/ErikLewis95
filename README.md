@@ -1,8 +1,9 @@
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient" alt="ErikLewis95" > 
+ 
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&<h1 align="center">Namaste:pray:, I'm Erik Lewis</h1>
+<h1 align="center">Namaste:pray:, I'm Erik Lewis</h1>
 <h3 align="center">Full Stack Web Developer skilled in MERN stack who focuses on writing neat, clean, elegant and efficient code.</h3>
-)
 
 ![My thought](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
@@ -75,4 +76,4 @@
 
 <a href="https://github.com/ErikLewis95"><img src="contribution.svg" width="100%" ></a>
 
- 
+ </img>
