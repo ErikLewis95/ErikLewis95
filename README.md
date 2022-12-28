@@ -1,4 +1,4 @@
- <p style="background-image: url('https://wallpapercave.com/wp/wp3082346.jpg');"
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
  
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Namaste:pray:, I'm Erik Lewis</h1>
@@ -75,4 +75,4 @@
 
 <a href="https://github.com/ErikLewis95"><img src="contribution.svg" width="100%" ></a>
 
-> 
+ 
