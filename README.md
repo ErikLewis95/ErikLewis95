@@ -1,4 +1,4 @@
-<body style="background-color:#1c87c9;">
+ <p style="background-image: url('https://wallpapercave.com/wp/wp3082346.jpg');"> 
  
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Namaste:pray:, I'm Erik Lewis</h1>
@@ -74,5 +74,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ErikLewis95&&theme=tokyonight" alt="ErikLewis95" /></p>
 
 <a href="https://github.com/ErikLewis95"><img src="contribution.svg" width="100%" ></a>
-</body>
+
 
