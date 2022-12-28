@@ -21,7 +21,7 @@
 - 📫 How to reach me **eriksimaremare@gmail.com**
 
 
-<img align="right" alt="Coding" src="https://github.com/ErikLewis95/ErikLewis95/blob/main/covid19.gif" data-canonical-src="https://github.com/ErikLewis95/ErikLewis95/blob/main/covid19.gif" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage"> 
+<img align="right" alt="Coding" src="https://github.com/ErikLewis95/ErikLewis95/blob/main/covid19.gif" data-canonical-src="https://github.com/ErikLewis95/ErikLewis95/blob/main/covid19.gif" style="max-width: 20%; display: inline-block;" data-target="animated-image.originalImage"> 
 
 
 <h3 align="left">Connect with me:</h3>
