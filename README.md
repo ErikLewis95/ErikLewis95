@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ErikLewis95&label=Profile%20views&color=0e75b6&style=flat" alt="ErikLewis95" /> </p>
 
-<p align="left" style="color:blue"><img src="https://avatars.githubusercontent.com/ml/9936?s=140&v=4" height="30" /><b>Github Profile Trophy</b></p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/ml/9936?s=140&v=4" height="30" /><b>Github Profile Trophy</b></p>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ErikLewis95&theme=discord" alt="ErikLewis95" /> </p>
 
@@ -20,9 +20,7 @@
 
 - 📫 How to reach me **eriksimaremare@gmail.com**
 
-
-<img align="right" alt="Coding" src="https://github.com/ErikLewis95/ErikLewis95/blob/main/covid19.gif" data-canonical-src="https://github.com/ErikLewis95/ErikLewis95/blob/main/covid19.gif" style="max-width: 20%; display: inline-block;" data-target="animated-image.originalImage"> 
-
+<p align="right"> <img src="https://github.com/ErikLewis95/ErikLewis95/blob/main/covid19.gif" width="300" height="300" display: inline-block;" data-target="animated-image.originalImage" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
