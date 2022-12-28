@@ -1,4 +1,4 @@
- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient" alt="ErikLewis95" > 
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient" width="100%" height="100%" > 
  
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
