@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ErikLewis95&theme=discord" alt="ErikLewis95" /> </p>
 
-<p align="right"> <img src="https://github.com/ErikLewis95/ErikLewis95/blob/master/covid19.gif" width="512" > </p>
+<p align="right"> <img src="https://github.com/ErikLewis95/ErikLewis95/blob/master/covid19.gif" width="200" height="200"> </p>
 - 🔭 I’m currently working on **Full Stack Web Development**
 
 - 🌱 I’m currently learning **React, Redux**
