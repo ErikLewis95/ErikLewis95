@@ -66,7 +66,8 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/879423585ed087f3c973857c43ba7e7d84f52c993d2c937055726339fbf921d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/879423585ed087f3c973857c43ba7e7d84f52c993d2c937055726339fbf921d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465" alt="postman" data-canonical-src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=Postman&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b0803f299d89e7a70fcc3758536f4a2c35d92af1a38bcf40a207ad2666610f83/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7265706c69742d3636373838313f7374796c653d666f722d7468652d6261646765266c6f676f3d7265706c6974266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/b0803f299d89e7a70fcc3758536f4a2c35d92af1a38bcf40a207ad2666610f83/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7265706c69742d3636373838313f7374796c653d666f722d7468652d6261646765266c6f676f3d7265706c6974266c6f676f436f6c6f723d7768697465" alt="replit" data-canonical-src="https://img.shields.io/badge/replit-667881?style=for-the-badge&amp;logo=replit&amp;logoColor=white" style="max-width: 100%;"></a>  
 </p>
-
+<br>
+<hr>
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ErikLewis95&&theme=xcode)](https://github.com/ErikLewis95)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ErikLewis95&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ErikLewis95" /></p>
