@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Namaste:pray:, I'm Erik Lewis</h1>
-<h3 align="center">Full Stack Web Developer skilled in MERN stack who focuses on writing neat, clean, elegant and efficient code.</h3>
+<h3 align="center">Full Stack Web Developer skilled in <a href="https://eriklewis95.github.io/My-CV/" rel="nofollow">MERN</a> stack who focuses on writing neat, clean, elegant and efficient code.</h3>
 
 ![My thought](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
