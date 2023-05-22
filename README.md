@@ -5,6 +5,7 @@
 
 ![My thought](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
+<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ErikLewis95&label=Profile%20views&color=0e75b6&style=flat" alt="ErikLewis95" /> </p>
 
 <p align="left"> <img src="https://avatars.githubusercontent.com/ml/9936?s=140&v=4" height="30" /><b>Github Profile Trophy</b></p>
