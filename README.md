@@ -39,23 +39,23 @@
         </tr>
         <tr>
             <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"><img alt="JavaScript" src="https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" data-canonical-src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width: 100%;"></a></td>
-            <td align="center">Angular, React, Backbone.js, etc </td>
+         <td align="center"><b>Angular, React, Backbone.js, etc</b></td>
         </tr>
         <tr>
             <td align="center"><img src="https://www.php.net/images/meta-image.png" width="126.5" height="28" ></a></td>
-            <td align="center">Codeigniter, Laravel, Yii, etc </td>
+            <td align="center"><b>Codeigniter, Laravel, Yii, etc</b></td>
         </tr>
         <tr>
             <td align="center"><img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.jpg" width="126.5" height="28" ></td>
-            <td align="center">Spring MVC, JSF, Struts, etc </td>
+            <td align="center"><b>Spring MVC, JSF, Struts, etc</b></td>
         </tr>
         <tr>
             <td align="center"><img src="https://miro.medium.com/v2/resize:fit:1400/1*m0H6-tUbW6grMlezlb52yw.png" width="126.5" height="28" ></td>
-            <td align="center">Django, Cherry, Py, etc </td>
+            <td align="center"><b>Django, Cherry, Py, etc</b></td>
         </tr>
         <tr>
             <td align="center"><img src="https://niagaspace.sgp1.digitaloceanspaces.com/blog/wp-content/uploads/2022/02/02170529/apa-itu-ruby-on-rails-1024x470.jpg" width="126.5" height="28" ></td>
-            <td align="center"> Ruby on Rails, Sinatra, etc </td>
+            <td align="center"><b>Ruby on Rails, Sinatra, etc</b></td>
         </tr>
     </table>
     
