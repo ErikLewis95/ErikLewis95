@@ -46,15 +46,15 @@
             <td align="center">Codeigniter, Laravel, Yii, etc </td>
         </tr>
         <tr>
-            <td align="center">JAVA</td>
+            <td align="center"><img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.jpg" width="100" height="30" ></td>
             <td align="center">Spring MVC, JSF, Struts, etc </td>
         </tr>
         <tr>
-            <td align="center">PYTHON</td>
+            <td align="center"><img src="https://miro.medium.com/v2/resize:fit:1400/1*m0H6-tUbW6grMlezlb52yw.png" width="100" height="30" ></td>
             <td align="center">Django, Cherry, Py, etc </td>
         </tr>
         <tr>
-            <td align="center">RUBY</td>
+            <td align="center"><img src="https://niagaspace.sgp1.digitaloceanspaces.com/blog/wp-content/uploads/2022/02/02170529/apa-itu-ruby-on-rails-1024x470.jpg" width="100" height="30" ></td>
             <td align="center"> Ruby on Rails, Sinatra, etc </td>
         </tr>
     </table>
