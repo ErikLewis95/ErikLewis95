@@ -39,23 +39,23 @@
         </tr>
         <tr>
             <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"><img alt="JavaScript" src="https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" data-canonical-src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width: 100%;"></a></td>
-            <td align="center"><img align="center" src="https://miro.medium.com/v2/resize:fit:1400/1*cGDDA2mfYkjiIhGaN8gDoA.png" height="100" width="30" /></a> React, Backbone.js,dll </td>
+            <td align="center">Angular React, Backbone.js, etc </td>
         </tr>
         <tr>
             <td align="center">PHP</td>
-            <td align="center">Codeigniter, Laravel, Yii, dll </td>
+            <td align="center">Codeigniter, Laravel, Yii, etc </td>
         </tr>
         <tr>
             <td align="center">JAVA</td>
-            <td align="center">Spring MVC, JSF, Struts, dll </td>
+            <td align="center">Spring MVC, JSF, Struts, etc </td>
         </tr>
         <tr>
             <td align="center">PYTHON</td>
-            <td align="center">Django, Cherry,Py, dll </td>
+            <td align="center">Django, Cherry, Py, etc </td>
         </tr>
         <tr>
             <td align="center">RUBY</td>
-            <td align="center"> Ruby on Rails, Sinatra, dll </td>
+            <td align="center"> Ruby on Rails, Sinatra, etc </td>
         </tr>
     </table>
     
