@@ -54,7 +54,7 @@
             <td align="center">Django, Cherry, Py, etc </td>
         </tr>
         <tr>
-            <td align="center"><img src="https://niagaspace.sgp1.digitaloceanspaces.com/blog/wp-content/uploads/2022/02/02170529/apa-itu-ruby-on-rails-1024x470.jpg" width="100" height="30" ></td>
+            <td align="center"><img src="https://niagaspace.sgp1.digitaloceanspaces.com/blog/wp-content/uploads/2022/02/02170529/apa-itu-ruby-on-rails-1024x470.jpg" width="126.5" height="28" ></td>
             <td align="center"> Ruby on Rails, Sinatra, etc </td>
         </tr>
     </table>
