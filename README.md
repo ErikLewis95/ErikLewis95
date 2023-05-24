@@ -68,7 +68,7 @@
 </p>
 <hr>
 
-![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=ErikLewis95&theme=tokyo-night)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ErikLewis95&theme=dracula)](https://github.com/ErikLewis95/github-readme-activity-graph)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ErikLewis95&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ErikLewis95" /></p>
