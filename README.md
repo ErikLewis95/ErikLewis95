@@ -34,7 +34,7 @@
 
 <table >
         <tr>
-            <td align="center">Language</td>
+            <td align="center">Languages</td>
             <td align="center">Framework</td>
         </tr>
         <tr>
