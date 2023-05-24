@@ -42,7 +42,7 @@
             <td align="center">Angular React, Backbone.js, etc </td>
         </tr>
         <tr>
-            <td align="center">PHP</td>
+            <td align="center">[PHP](https://www.php.net/images/meta-image.png)</td>
             <td align="center">Codeigniter, Laravel, Yii, etc </td>
         </tr>
         <tr>
