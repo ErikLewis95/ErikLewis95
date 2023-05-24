@@ -38,24 +38,24 @@
             <td align="center">Framework</td>
         </tr>
         <tr>
-            <td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"><img alt="JavaScript" src="https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" data-canonical-src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width: 100%;"></a></td>
-            <td>AngularJS, React, Backbone.js,dll </td>
+            <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"><img alt="JavaScript" src="https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" data-canonical-src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width: 100%;"></a></td>
+            <td align="center">AngularJS, React, Backbone.js,dll </td>
         </tr>
         <tr>
-            <td>PHP</td>
-            <td>Codeigniter, Laravel, Yii, dll </td>
+            <td align="center">PHP</td>
+            <td align="center">Codeigniter, Laravel, Yii, dll </td>
         </tr>
         <tr>
-            <td>JAVA</td>
-            <td>Spring MVC, JSF, Struts, dll </td>
+            <td align="center">JAVA</td>
+            <td align="center">Spring MVC, JSF, Struts, dll </td>
         </tr>
         <tr>
-            <td>PYTHON</td>
-            <td>Django, Cherry,Py, dll </td>
+            <td align="center">PYTHON</td>
+            <td align="center">Django, Cherry,Py, dll </td>
         </tr>
         <tr>
-            <td>RUBY</td>
-            <td> Ruby on Rails, Sinatra, dll </td>
+            <td align="center">RUBY</td>
+            <td align="center"> Ruby on Rails, Sinatra, dll </td>
         </tr>
     </table>
     
