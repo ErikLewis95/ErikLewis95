@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/78170171-8f2d-4eb8-be9b-f1b342297f65" />![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Namaste :pray:🤖, I'm Erik Lewis</h1>
 <h3 align="center"><a href="https://www.w3schools.com/whatis/whatis_fullstack.asp" target="_blank">Full Stack Web Developer</a> skilled in <a href="https://dev.to/theme_selection/best-web-development-stack-2jpe" target="_blank">MERN, MEAN, MEVN, PERN, LAMP, Flutter and also Ruby On Rails Tech STACK
