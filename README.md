@@ -54,7 +54,7 @@
             <td align="center"><b>Django, Cherry, Py, etc</b></td>
         </tr>
         <tr>
-            <td align="center"><img src="https://rubyonrails.org/" width="126.5" height="28" ></td>
+            <td align="center"><img src="[https://rubyonrails.org/](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGtlvIEgtkIrtytq_ePoE5wYSaym3oqg2pNw&s)" width="126.5" height="28" ></td>
             <td align="center"><b>Ruby on Rails, Sinatra, etc</b></td>
         </tr>
     </table>
