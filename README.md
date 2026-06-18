@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://avatars.githubusercontent.com/ml/9936?s=140&v=4" height="30" /><b>Github Profile Trophy</b></p>
 
-<p align="left"> <img src="[![trophy](https://vercel.app)](https://github.com/ErikLewis95/github-profile-trophy)" alt="ErikLewis95" /> </p>
+<p align="left"> <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=ErikLewis95&theme=light" /> </p>
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
