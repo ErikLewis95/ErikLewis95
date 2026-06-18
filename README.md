@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-<h1 align="center">Namaste:pray:, I'm Erik Lewis</h1>
+<h1 align="center">Namaste :pray:, I'm Erik Lewis</h1>
 <h3 align="center"><a href="https://www.w3schools.com/whatis/whatis_fullstack.asp" target="_blank">Full Stack Web Developer</a> skilled in <a href="https://dev.to/theme_selection/best-web-development-stack-2jpe" target="_blank">MERN, MEAN, MEVN, PERN, LAMP, Flutter and also Ruby On Rails Tech STACK
 </a> who focuses on writing neat, clean, elegant and efficient code.</h3>
 
@@ -38,7 +38,7 @@
          <td align="center"><b>FRAMEWORKS</b></td>
         </tr>
         <tr>
-            <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"><img alt="JavaScript" src="https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" data-canonical-src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width: 100%;"></a></td>
+            <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"><img alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/500px-Unofficial_JavaScript_logo_2.svg.png"></a></td>
          <td align="center"><b>Angular, React, Backbone.js, etc</b></td>
         </tr>
         <tr>
